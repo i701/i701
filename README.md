@@ -24,8 +24,3 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </div>
 
-
-### My Contributions
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=i701&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i701&layout=compact&theme=cobalt&hide_border=true" />
-
