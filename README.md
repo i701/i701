@@ -1,5 +1,5 @@
 ### Hi there, i am i701 👋
-
+<a href="https://app.daily.dev/i701"><img src="https://api.daily.dev/devcards/256cb35d72f7435b99a98585df842d04.png?r=sti" width="400" alt="idhaan's Dev Card"/></a>
 
 - 🔭 I’m currently working on a Blood Donation Web App.
 - 🤔 I’m looking for help with Django Framework and React Framework.
