@@ -1,13 +1,11 @@
-<h1 align="center">Yeet! 👋, I'm Aidhaan.</h1>
-<h3 align="center">Full stack Web Developer from Maldives 🇲🇻</h3>
-<br />
-
 ```python
 import random
 
 
 class Me:
 
+    greet = "Yeet! 👋, I'm Aidhaan"
+    bio = "Full stack Web Developer from Maldives 🇲🇻"
     user = 'Aidhaan'
     languages = ['javascript', 'typescript', 'python']
     frameworks = ['NextJS', 'Django', 'React JS']
