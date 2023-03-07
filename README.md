@@ -4,9 +4,9 @@ import random
 
 class Me:
 
-    greet = "Yeet! 👋, I'm Aidhaan"
+    greeting = "Yeet! 👋, I'm Aidhaan"
     bio = "Full stack Web Developer from Maldives 🇲🇻"
-    user = 'Aidhaan'
+    last_name = 'Aidhaan'
     languages = ['javascript', 'typescript', 'python']
     frameworks = ['NextJS', 'Django', 'React JS']
     website = 'idhaan.me'
