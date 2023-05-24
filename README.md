@@ -11,7 +11,7 @@ class Me:
     frameworks = ['NextJS', 'Django', 'React JS']
     website = 'idhaan.me'
     projects = ['https://donors.ungoodhoo.live']
-    facts = ["i hate viber", "i love telegram",
+    facts = ["i love telegram",
              "not only do i love telegram, i obsess over it",
              "i loathe viber", "i like chocolate cake",
              "i love football",
