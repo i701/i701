@@ -7,7 +7,7 @@ class Me:
     greeting = "Yeet! 👋, I'm Aidhaan"
     bio = "Full stack Web Developer from Maldives 🇲🇻"
     languages = ['javascript', 'typescript', 'python']
-    frameworks = ['NextJS', 'Django', 'React']
+    frameworks = ['NextJS', 'Django', 'React','FastAPI']
     website = 'dev.idhaan.me'
     projects = ['https://donors.ungoodhoo.live']
     facts = ["i love telegram",
