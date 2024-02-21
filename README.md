@@ -22,9 +22,6 @@ class Me:
         """Get a random fact about me."""
         return random.choice(self.facts)
 
-    def __str__(self) -> str:
-        """String representation of Me."""
-        return f"{self.greeting}\n{self.bio}\nWebsite: {self.website}\nLanguages: {', '.join(self.languages)}\nFrameworks: {', '.join(self.frameworks)}\nProjects: {', '.join(self.projects)}"
 
 
 if __name__ == "__main__":
