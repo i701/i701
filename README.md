@@ -6,7 +6,7 @@ class Me:
         self.greeting = "Yeet! 👋, I'm Aidhaan"
         self.bio = "Full stack Web Developer from Maldives 🇲🇻"
         self.languages = ['javascript', 'typescript', 'python']
-        self.frameworks = ['NextJS', 'Django', 'React', 'FastAPI']
+        self.frameworks = ['NextJS', 'Django', 'React', 'DRF']
         self.website = 'dev.idhaan.me'
         self.projects = ['https://donors.ungoodhoo.live']
         self.facts = [
