@@ -8,7 +8,7 @@ class Me:
         self.languages = ['javascript', 'typescript', 'python']
         self.frameworks = ['NextJS', 'Django', 'React', 'DRF']
         self.website = 'dev.idhaan.me'
-        self.projects = ['https://donors.ungoodhoo.live', 'https://gazzette.idhaan.me/docs']
+        self.projects = ['https://donors.ungoodhoo.live', 'https://gazzette.idhaan.me/docs', 'https://muft.vercel.app']
         self.facts = [
             "I love Telegram.",
             "Not only do I love Telegram, I obsess over it.",
