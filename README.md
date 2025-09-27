@@ -3,12 +3,12 @@ import random
 
 class Me:
     def __init__(self):
-        self.greeting = "Yeet! 👋, I'm Aidhaan"
+        self.greeting = "Yeeeeeeeet! 👋, I'm Aidhaan"
         self.bio = "Full stack Web Developer from Maldives 🇲🇻"
         self.languages = ['javascript', 'typescript', 'python']
-        self.frameworks = ['NextJS', 'Django', 'React', 'DRF']
+        self.frameworks = ['NextJS', 'Django', 'React', 'DRF', 'Tanstack']
         self.website = 'dev.idhaan.me'
-        self.projects = ['https://donors.ungoodhoo.live', 'https://gazzette.idhaan.me/docs', 'https://muft.vercel.app']
+        self.projects = ['https://donors.ungoodhoo.live', 'https://gazzette.idhaan.me/docs', 'https://muft.vercel.app', https://portal.sarlink.net]
         self.facts = [
             "I love Telegram.",
             "Not only do I love Telegram, I obsess over it.",
