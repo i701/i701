@@ -30,5 +30,5 @@ if __name__ == "__main__":
 
 ```
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=i701&border=8&line=fb8c00&bg_color=fafcff&point=cf222e)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-activity-graph.luckylinux.dev/graph?username=i701
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i701&" alt="i701" /></p>
