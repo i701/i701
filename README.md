@@ -30,5 +30,5 @@ if __name__ == "__main__":
 
 ```
 
-![GitHub Activity Graph](https://github-activity-graph.luckylinux.dev/graph?username=i701
+![GitHub Activity Graph](https://github-activity-graph.luckylinux.dev/graph?username=i701)
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i701&" alt="i701" /></p>
